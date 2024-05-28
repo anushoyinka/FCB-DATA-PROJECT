@@ -20,5 +20,9 @@ Goggle Query Sheet
 SELECT *FROM TABLE
 WHERE CONDITION =MET
 ![](IMG_20240528_075756_628.jpg)
-
+```
+##Table
+|heading 1|heading 2|Heading|
+|---------| --------| -------|
+|data1| Data2| data3|
   
