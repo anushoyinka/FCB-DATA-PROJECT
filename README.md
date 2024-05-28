@@ -17,6 +17,7 @@ the primary sources of data used for this project is Data sales.cvs which is ope
 
 ```
 Goggle Query Sheet
-  WHERE CONDITION =MET
+SELECT *FROM TABLE
+WHERE CONDITION =MET
 
   
