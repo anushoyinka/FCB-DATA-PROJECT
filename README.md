@@ -1,4 +1,4 @@
-# FCB-DATA-PROJECT
+![IMG_20240528_075756_628](https://github.com/anushoyinka/FCB-DATA-PROJECT/assets/171018833/398e2907-ba43-422d-b874-9a79a8e1016d)# FCB-DATA-PROJECT
 ---
 
 ## project outline 
@@ -19,5 +19,6 @@ the primary sources of data used for this project is Data sales.cvs which is ope
 Goggle Query Sheet
 SELECT *FROM TABLE
 WHERE CONDITION =MET
+![](IMG_20240528_075756_628.jpg)
 
   
